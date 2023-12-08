@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ItNEOVzrd32RZi8R61bmFS2jjetPlHqV4e9kuRGuNaJ06V8qEC74a8UZb1qnCBAKqJvk+z5UA7Uu68YOK0/dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\Entidades\\Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

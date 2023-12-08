@@ -1,0 +1,266 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\WinFormCRUD\\WinFormCRUD.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\Base_De_Datos_Biblioteca\\BaseDeDatosBiblioteca.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\Base_De_Datos_Biblioteca\\BaseDeDatosBiblioteca.csproj",
+        "projectName": "BaseDeDatosBiblioteca",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\Base_De_Datos_Biblioteca\\BaseDeDatosBiblioteca.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\Base_De_Datos_Biblioteca\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\Entidades\\Entidades.csproj"
+              },
+              "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\ExceptionBiblioteca\\ExceptionBiblioteca.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\ExceptionBiblioteca\\ExceptionBiblioteca.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\Entidades\\Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\Entidades\\Entidades.csproj",
+        "projectName": "Entidades",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\ExceptionBiblioteca\\ExceptionBiblioteca.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\ExceptionBiblioteca\\ExceptionBiblioteca.csproj",
+        "projectName": "ExceptionBiblioteca",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\ExceptionBiblioteca\\ExceptionBiblioteca.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\ExceptionBiblioteca\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\WinFormCRUD\\WinFormCRUD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\WinFormCRUD\\WinFormCRUD.csproj",
+        "projectName": "WinFormCRUD",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\WinFormCRUD\\WinFormCRUD.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\WinFormCRUD\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\Base_De_Datos_Biblioteca\\BaseDeDatosBiblioteca.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\Base_De_Datos_Biblioteca\\BaseDeDatosBiblioteca.csproj"
+              },
+              "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\Entidades\\Entidades.csproj"
+              },
+              "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\ExceptionBiblioteca\\ExceptionBiblioteca.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\UTN FRA - VIDELA\\Programacion_II y Laboratorio_II\\SP_LAB_II-2C-2023\\VidelaRibodino.IvanAgustin\\ExceptionBiblioteca\\ExceptionBiblioteca.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

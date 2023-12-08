@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\UTN FRA - VIDELA\Programacion_II y Laboratorio_II\SP_LAB_II-2C-2023\VidelaRibodino.IvanAgustin\ExceptionBiblioteca\bin\Debug\net6.0\ExceptionBiblioteca.deps.json
+C:\Users\Usuario\Desktop\UTN FRA - VIDELA\Programacion_II y Laboratorio_II\SP_LAB_II-2C-2023\VidelaRibodino.IvanAgustin\ExceptionBiblioteca\bin\Debug\net6.0\ExceptionBiblioteca.dll
+C:\Users\Usuario\Desktop\UTN FRA - VIDELA\Programacion_II y Laboratorio_II\SP_LAB_II-2C-2023\VidelaRibodino.IvanAgustin\ExceptionBiblioteca\bin\Debug\net6.0\ExceptionBiblioteca.pdb
+C:\Users\Usuario\Desktop\UTN FRA - VIDELA\Programacion_II y Laboratorio_II\SP_LAB_II-2C-2023\VidelaRibodino.IvanAgustin\ExceptionBiblioteca\obj\Debug\net6.0\ExceptionBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\UTN FRA - VIDELA\Programacion_II y Laboratorio_II\SP_LAB_II-2C-2023\VidelaRibodino.IvanAgustin\ExceptionBiblioteca\obj\Debug\net6.0\ExceptionBiblioteca.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\UTN FRA - VIDELA\Programacion_II y Laboratorio_II\SP_LAB_II-2C-2023\VidelaRibodino.IvanAgustin\ExceptionBiblioteca\obj\Debug\net6.0\ExceptionBiblioteca.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\UTN FRA - VIDELA\Programacion_II y Laboratorio_II\SP_LAB_II-2C-2023\VidelaRibodino.IvanAgustin\ExceptionBiblioteca\obj\Debug\net6.0\ExceptionBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\UTN FRA - VIDELA\Programacion_II y Laboratorio_II\SP_LAB_II-2C-2023\VidelaRibodino.IvanAgustin\ExceptionBiblioteca\obj\Debug\net6.0\ExceptionBiblioteca.dll
+C:\Users\Usuario\Desktop\UTN FRA - VIDELA\Programacion_II y Laboratorio_II\SP_LAB_II-2C-2023\VidelaRibodino.IvanAgustin\ExceptionBiblioteca\obj\Debug\net6.0\refint\ExceptionBiblioteca.dll
+C:\Users\Usuario\Desktop\UTN FRA - VIDELA\Programacion_II y Laboratorio_II\SP_LAB_II-2C-2023\VidelaRibodino.IvanAgustin\ExceptionBiblioteca\obj\Debug\net6.0\ExceptionBiblioteca.pdb
+C:\Users\Usuario\Desktop\UTN FRA - VIDELA\Programacion_II y Laboratorio_II\SP_LAB_II-2C-2023\VidelaRibodino.IvanAgustin\ExceptionBiblioteca\obj\Debug\net6.0\ref\ExceptionBiblioteca.dll

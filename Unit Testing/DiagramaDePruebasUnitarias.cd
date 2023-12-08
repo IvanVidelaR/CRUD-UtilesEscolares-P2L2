@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="UnitTesting.CartucheraTest">
+    <Position X="0.5" Y="0.5" Width="5.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAkAAAAAAAAAAAAAIAAAAAAAAAgAAAAAIAAA=</HashCode>
+      <FileName>CartucheraTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unit_Testing.UtilEscolarTest">
+    <Position X="0.5" Y="2.75" Width="8" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAACAAAAAAAAAAAgAAAACAAAAEAAAAAA=</HashCode>
+      <FileName>UtilEscolarTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
